@@ -36,10 +36,15 @@ Always start work here before editing anything else.
 
 ---
 
-## DAILY START
-
-- [ ] Open Control Room
+## DAILY START (ALWAYS)
+- [ ] Open 00_CONTROL_ROOM.md
 - [ ] Read NEXT PRIORITIES
-- [ ] Choose ONE module only
-- [ ] Work
+- [ ] Choose ONE module only (01 / 02 / 03 / 04 / 05)
+- [ ] Create/Update ONE working file only
 - [ ] Commit before closing
+
+## DAILY CLOSE (ALWAYS)
+- [ ] Update STATUS (what changed)
+- [ ] Update NEXT PRIORITIES (only if needed)
+- [ ] git status is clean
+- [ ] Commit + push
