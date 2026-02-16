@@ -14,7 +14,7 @@ Estado: CANDIDATE
 
 ---
 
-## I. Naturaleza del Documento
+## I. Naturaleza del Documentogit add 01_constitution/IRA-IIGF-001__Implementacion_Gobernanza_v1.0__CANDIDATE.md
 
 IRA-IIGF-001 define el marco constitucional de implementación y gobernanza institucional del estándar IRA™ v1.0.
 
