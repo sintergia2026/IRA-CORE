@@ -33,3 +33,13 @@
 ## CEO NOTE
 This file is the operational center of IRA.
 Always start work here before editing anything else.
+
+---
+
+## DAILY START
+
+- [ ] Open Control Room
+- [ ] Read NEXT PRIORITIES
+- [ ] Choose ONE module only
+- [ ] Work
+- [ ] Commit before closing
